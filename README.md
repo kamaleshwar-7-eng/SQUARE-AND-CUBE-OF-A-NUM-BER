@@ -30,7 +30,8 @@ END
 ```
 
 ## OUTPUT
-
+<img width="500" height="312" alt="kamaleshsqr2-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/eab2ccb4-e638-46e6-aec8-b6da3d659d4d" />
+<img width="500" height="312" alt="kamaleshsqr1-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/b87fd7df-8c18-44dd-bc02-fc412f607258" />
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
@@ -70,6 +71,9 @@ END
 
 
 ## OUTPUT
+<img width="500" height="312" alt="kamaleshcbe1-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/71a67e02-415c-49c3-923b-9663f4cbb5d6" />
+<img width="500" height="312" alt="kamaleshcbe1-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/b3c8c1d3-9707-4aea-a850-69b34840075c" />
+
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
