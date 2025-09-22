@@ -72,8 +72,7 @@ END
 
 ## OUTPUT
 <img width="500" height="312" alt="kamaleshcbe1-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/71a67e02-415c-49c3-923b-9663f4cbb5d6" />
-<img width="500" height="312" alt="kamaleshcbe1-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/b3c8c1d3-9707-4aea-a850-69b34840075c" />
-
+<img width="500" height="312" alt="kamaleshcbe2-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/842322a5-b248-44d7-ae24-814a06b2f538" />
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
